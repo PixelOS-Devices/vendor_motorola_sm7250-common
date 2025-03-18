@@ -10517,6 +10517,7 @@ cc_prebuilt_library_shared {
                 "libmdmcutback",
                 "liblog",
                 "libsysutils",
+                "libril",
                 "libc++",
                 "libc",
                 "libm",
@@ -11077,6 +11078,7 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libcutils",
                 "libutils",
+                "libril",
                 "libdiag",
                 "libc++",
                 "libc",
